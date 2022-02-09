@@ -1,5 +1,4 @@
-#19010011062
-#Necmettin Alver
+
 
 from random import randint
 
